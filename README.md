@@ -36,6 +36,8 @@ We have found a effective way to maintain the required humidity and temperature 
 
 We have attached fins, to adjust the amount of sunlight entering the container. A servo motor will be used to control the fins(via louver mechanism).
 At first, to increase the temperature inside the container, we decrease the humidity using an exhaust fan (i.e. Temperature is inversely proportional to Humidity). As the internals of the container is completely coated in black, for effective absorption of heat, and when the temperature specified is out of range, the fins close and isolate the container from any external heat exchanges. After the temperature decreases, the fins are opened to allow the sunlight to enter the container again, this process is repeated several times until the item placed in the container reaches an optimal condition (i.e. dried).
+
+
 ![Github](https://user-images.githubusercontent.com/65480054/187011317-9a728abe-737f-4a6f-97c2-dc0cc703c76e.jpg)
 
 
