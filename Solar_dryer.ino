@@ -10,7 +10,7 @@ dht DHT;
 
 void setup() {
   pinMode(fan, OUTPUT);
-  digitalWrite(fan, LOW);
+  digitalWrite(fan, LOW); //i was here to make a pull request!
 
   Serial.begin(9600);
 
