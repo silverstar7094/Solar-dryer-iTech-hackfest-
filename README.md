@@ -1,5 +1,5 @@
 # Solar-dryer-iTech-hackfest-
-<h2>A project we developed for iTech Hackfest Conducted at PSG</h2>
+<h2>A project developed for iTech Hackfest Conducted at PSG</h2>
 <h1>SOLAR DRYER</h1>
 Solar dryers are devices that use solar energy to dry substances, especially food. Solar dryers use the heat from sun to remove the moisture content of food substances. There are two general types of solar dryers: Direct and indirect.
 
